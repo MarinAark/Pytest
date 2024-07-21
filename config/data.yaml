@@ -1,0 +1,14 @@
+name:
+  hero: 安其拉
+  word: 我是anan
+  hp: 100
+
+heroes_name:
+  - 鲁班七号
+  - 王招君
+  - 小巧
+
+heroes_name_list:
+  - - 蒙恬
+    - 嬴政
+    - 王翦
